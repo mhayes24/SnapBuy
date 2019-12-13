@@ -1,0 +1,11 @@
+*.iml
+.idea/*
+*.sw*
+*.jar
+build/
+local.properties
+.externalNativeBuild
+.cxx
+.gradle
+captures/
+team-provider-info.json
