@@ -1,1 +1,3 @@
 # SnapBuy
+
+Read README.txt
