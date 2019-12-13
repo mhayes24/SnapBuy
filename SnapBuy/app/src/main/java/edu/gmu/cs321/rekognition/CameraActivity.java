@@ -32,11 +32,11 @@ public class CameraActivity extends AppCompatActivity {
             rekognitionClient = RekognitionClient.getInstance();
         } catch (IOException e) {
             if (e instanceof ProtocolException) {
-                // TODO: print to screen "shit be fucked"
+                
             } else if (e instanceof MalformedURLException) {
-                // TODO: print to screen "more shit be fucked"
+                
             } else {
-                // TODO: print to screen "extreme amounts of shit be fucked"
+                
             }
         }
     }
