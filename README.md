@@ -1,3 +1,3 @@
 # SnapBuy
 
-Read README.txt
+Image recognition Android shopping application
